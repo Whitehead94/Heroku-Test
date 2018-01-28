@@ -1,0 +1,23 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "heroku-test.js",
+  "scripts": {
+    "start": "node d4.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whitehead94/Heroku-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Whitehead94/Heroku-Test/issues"
+  },
+  "homepage": "https://github.com/Whitehead94/Heroku-Test#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "hbs": "^4.0.1"
+  }
+}
