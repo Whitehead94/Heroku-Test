@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Whitehead94/Heroku-Test#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "hbs": "^4.0.1"
+    "request": "^2.83.0",
   }
 }

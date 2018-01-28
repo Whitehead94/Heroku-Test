@@ -1,6 +1,5 @@
 const e = require('express');
 const bp = require('body-parser');
-const y = require('yargs');
 const api1 = require('./api1.js');
 const api2 = require('./api2.js');
 const api3 = require('./api3.js');
